@@ -115,26 +115,6 @@ Evaluated models using:
 
 ---
 
-## Project Structure
-
-diabetes-prediction-ml/
-│
-├── diabetes_project.py
-├── charts/
-│ ├── chart1_distributions.png
-│ ├── chart2_heatmap.png
-│ ├── chart3_accuracy.png
-│ ├── chart4_confusion_matrix.png
-│ ├── chart5_roc_curve.png
-│ ├── chart6_decision_tree.png
-│ ├── chart7_feature_importance.png
-│ └── chart8_boxplots.png
-│
-├── requirements.txt
-└── README.md
-
----
-
 ## How to Run
 
 Install dependencies:
